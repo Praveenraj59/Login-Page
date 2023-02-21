@@ -14,3 +14,24 @@ body{
     align-items: center;
     background:linear-gradient(to right,rgb(124, 124, 255),rgb(255, 72, 0));
 }
+form{
+    box-shadow: 0 8px 22px 0 rgb(42, 42, 42);
+    border-radius: 7px;
+    display: flex;
+    background: rgb(243, 239, 239,0.06);
+    flex-direction: column;
+    padding: 35px;
+}
+input{
+    height: 36px;
+    width: 350px;
+    border-radius: 7px;
+    border: ridge;
+}
+button{
+    border: ridge;
+    border-radius: 7px;
+    height: 36px;
+    width: 250px;
+    margin-top: 20px;
+}
