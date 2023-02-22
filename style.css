@@ -27,14 +27,15 @@ input{
     width: 320px;
     border-radius: 7px;
     border: ridge;
+    opacity: ;
 }
 button{
     border: ridge;
     border-radius: 7px;
     height: 36px;
     width: 150px;
-    opacity: .7;
     margin: 3% auto;
+    cursor: pointer;
 }
 h1{
     text-align: center;
