@@ -12,7 +12,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background:linear-gradient(to right,rgb(124, 124, 255),rgb(255, 72, 0));
+    background:linear-gradient(to right,rgb(124, 124, 255),rgba(255, 0, 0, 0.621));
+}
+));
 }
 form{
     box-shadow: 0 8px 22px 0 rgb(42, 42, 42);
