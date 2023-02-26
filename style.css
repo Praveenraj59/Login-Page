@@ -14,8 +14,7 @@ body{
     align-items: center;
     background:linear-gradient(to right,rgb(124, 124, 255),rgba(255, 0, 0, 0.621));
 }
-));
-}
+
 form{
     box-shadow: 0 8px 22px 0 rgb(42, 42, 42);
     border-radius: 15px;
@@ -53,6 +52,7 @@ button{
 h1{
     text-align: center;
 }
+
 
 @media screen and (max-width: 700px) {
     .section__padding {
